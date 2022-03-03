@@ -38,6 +38,3 @@ This UserBot can forward messages from any Chat to any other Chat also you can k
 • `!kang` - Start All Messages Kanger.
 • `!restart` - Restart Heroku App Dyno Workers.
 • `!stop` - Stop Kanger & Restart Service.
-
-©️ **Developer:** @AbirHasan2005
-👥 **Support Group:** [【★ʟя★】](https://t.me/JoinOT)"""
