@@ -31,10 +31,3 @@ class Config(object):
     # Message Texts
     HELP_TEXT = """
 This UserBot can forward messages from any Chat to any other Chat also you can kang all messages from one Chat to another Chat.
-
-👨🏻‍💻 **Commands:**
-• `!start` - Check UserBot Alive or Not.
-• `!help` - Get this Message.
-• `!kang` - Start All Messages Kanger.
-• `!restart` - Restart Heroku App Dyno Workers.
-• `!stop` - Stop Kanger & Restart Service.
